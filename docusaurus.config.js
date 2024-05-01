@@ -2,7 +2,7 @@
 module.exports = {
   title: 'TurboWarp Documentation',
   url: 'https://lilymakesthings.github.io/',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'LilyMakesThings',
