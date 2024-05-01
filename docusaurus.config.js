@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'TurboWarp Documentation',
-  url: 'https://docs.turbowarp.org',
+  url: 'https://lilymakesthings.github.io/docs/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,7 +55,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/TurboWarp/docs/edit/master/',
+          editUrl: 'https://github.com/LilyMakesThings/docs/edit/master/',
           breadcrumbs: false,
         },
         theme: {
