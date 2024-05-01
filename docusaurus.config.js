@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  organizationName: 'TurboWarp',
+  organizationName: 'LilyMakesThings',
   projectName: 'docs',
   trailingSlash: false,
   themeConfig: {
