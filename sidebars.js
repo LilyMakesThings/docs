@@ -51,6 +51,14 @@ module.exports = {
         'development/extensions/wrapping-up',
       ]
     },
+    {
+      type: 'category',
+      label: 'Extension Documentation',
+      collapsed: false,
+      items: [
+        'development/advanced-apis/overview',
+      ]
+    },
     'development/getting-started',
     'development/globals',
     'development/scratchx'
